@@ -25,7 +25,7 @@
   }, 
   
   "DREXX-TEST-1": {
-    "active": false,
-    "hardware_id": "2B3EBE8F1EEB47CDA416F0437A627D74C27EDA40E2CE26EC1794AED18FB5A974"
+    "active": true,
+    "hardware_id": ""
   }
 }
