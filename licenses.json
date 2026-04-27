@@ -2,5 +2,30 @@
   "DREXX-TEST-1234": {
     "active": true,
     "hardware_id": ""
+  },
+
+  "DREXX-A7K9-Q2MP-91XZ": {
+    "active": true,
+    "hardware_id": ""
+  },
+
+  "DREXX-X9PL-7TQ2-K4ZM": {
+    "active": true,
+    "hardware_id": ""
+  },
+
+  "DREXX-LOCKED-USED1": {
+    "active": true,
+    "hardware_id": "ABC123LOCKEDHWIDEXAMPLE"
+  },
+
+  "DREXX-DISABLED-0001": {
+    "active": false,
+    "hardware_id": ""
+  }, 
+  
+  "DREXX-TEST-1": {
+    "active": true,
+    "hardware_id": ""
   }
 }
